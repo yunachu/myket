@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//myket/src/main/webapp/WEB-INF/views/Index.jsp=UTF-8
+encoding//myket/src/main/webapp/WEB-INF/views/account/Login.jsp=UTF-8
+encoding//myket/src/main/webapp/WEB-INF/views/account/MyAccount.jsp=UTF-8
+encoding//myket/src/main/webapp/WEB-INF/views/account/SignIn.jsp=UTF-8
+encoding//myket/src/main/webapp/WEB-INF/views/order/Order.jsp=UTF-8
+encoding//myket/src/main/webapp/WEB-INF/views/order/ShoppingCart.jsp=UTF-8
+encoding//myket/src/main/webapp/WEB-INF/views/order/WishList.jsp=UTF-8
+encoding//myket/src/main/webapp/WEB-INF/views/shop/ProductDetail.jsp=UTF-8
+encoding//myket/src/main/webapp/WEB-INF/views/shop/ShopList.jsp=UTF-8
